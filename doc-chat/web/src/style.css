@@ -1,0 +1,17 @@
+:root {
+  font-family: system-ui, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  height: 100dvh;
+}
+
+#app {
+  height: 100dvh;
+  display: flex;
+}

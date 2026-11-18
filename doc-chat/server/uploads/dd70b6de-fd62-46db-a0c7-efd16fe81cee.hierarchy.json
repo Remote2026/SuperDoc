@@ -1,0 +1,277 @@
+{
+  "groupId": "ROOT",
+  "title": "Document",
+  "level": 0,
+  "headingNodeId": "",
+  "blocks": [
+    {
+      "ordinal": 0,
+      "nodeId": "00000001",
+      "nodeType": "paragraph",
+      "textPreview": "Sample Agreement",
+      "tabCount": 0,
+      "isEmpty": false,
+      "styleId": "Title",
+      "text": "Sample Agreement"
+    }
+  ],
+  "children": [
+    {
+      "groupId": "G0001",
+      "title": "Chapter 1  End of Agreement",
+      "level": 1,
+      "headingNodeId": "00000002",
+      "blocks": [
+        {
+          "ordinal": 1,
+          "nodeId": "00000002",
+          "nodeType": "heading",
+          "textPreview": "Chapter 1  End of Agreement",
+          "tabCount": 0,
+          "isEmpty": false,
+          "styleId": "Heading1",
+          "headingLevel": 1,
+          "text": "Chapter 1  End of Agreement"
+        }
+      ],
+      "children": [
+        {
+          "groupId": "G0002",
+          "title": "1.1 Notice Period",
+          "level": 2,
+          "headingNodeId": "00000003",
+          "blocks": [
+            {
+              "ordinal": 2,
+              "nodeId": "00000003",
+              "nodeType": "heading",
+              "textPreview": "1.1 Notice Period",
+              "tabCount": 0,
+              "isEmpty": false,
+              "styleId": "Heading2",
+              "headingLevel": 2,
+              "text": "1.1 Notice Period"
+            },
+            {
+              "ordinal": 3,
+              "nodeId": "00000004",
+              "nodeType": "paragraph",
+              "textPreview": "Either party may end this agreement by giving written notice of termination t…",
+              "tabCount": 0,
+              "isEmpty": false,
+              "text": "Either party may end this agreement by giving written notice of termination to the other party."
+            }
+          ],
+          "children": []
+        },
+        {
+          "groupId": "G0003",
+          "title": "1.2 Effects",
+          "level": 2,
+          "headingNodeId": "00000005",
+          "blocks": [
+            {
+              "ordinal": 4,
+              "nodeId": "00000005",
+              "nodeType": "heading",
+              "textPreview": "1.2 Effects",
+              "tabCount": 0,
+              "isEmpty": false,
+              "styleId": "Heading2",
+              "headingLevel": 2,
+              "text": "1.2 Effects"
+            },
+            {
+              "ordinal": 5,
+              "nodeId": "00000006",
+              "nodeType": "paragraph",
+              "textPreview": "All fees paid before termination remain non-refundable.",
+              "tabCount": 0,
+              "isEmpty": false,
+              "text": "All fees paid before termination remain non-refundable."
+            },
+            {
+              "ordinal": 6,
+              "nodeId": "00000007",
+              "nodeType": "paragraph",
+              "textPreview": "",
+              "tabCount": 0,
+              "isEmpty": true,
+              "text": "\n"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "groupId": "G0004",
+      "title": "Chapter 2  Confidentiality",
+      "level": 1,
+      "headingNodeId": "00000008",
+      "blocks": [
+        {
+          "ordinal": 7,
+          "nodeId": "00000008",
+          "nodeType": "heading",
+          "textPreview": "Chapter 2  Confidentiality",
+          "tabCount": 0,
+          "isEmpty": false,
+          "styleId": "Heading1",
+          "headingLevel": 1,
+          "text": "Chapter 2  Confidentiality"
+        }
+      ],
+      "children": [
+        {
+          "groupId": "G0005",
+          "title": "2.1 Obligations",
+          "level": 2,
+          "headingNodeId": "00000009",
+          "blocks": [
+            {
+              "ordinal": 8,
+              "nodeId": "00000009",
+              "nodeType": "heading",
+              "textPreview": "2.1 Obligations",
+              "tabCount": 0,
+              "isEmpty": false,
+              "styleId": "Heading2",
+              "headingLevel": 2,
+              "text": "2.1 Obligations"
+            },
+            {
+              "ordinal": 9,
+              "nodeId": "0000000A",
+              "nodeType": "paragraph",
+              "textPreview": "Each party shall protect the other's confidential information with reasonable…",
+              "tabCount": 0,
+              "isEmpty": false,
+              "text": "Each party shall protect the other's confidential information with reasonable care."
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "groupId": "G0006",
+      "title": "Chapter 3  Fee Schedule",
+      "level": 1,
+      "headingNodeId": "0000000B",
+      "blocks": [
+        {
+          "ordinal": 10,
+          "nodeId": "0000000B",
+          "nodeType": "heading",
+          "textPreview": "Chapter 3  Fee Schedule",
+          "tabCount": 0,
+          "isEmpty": false,
+          "styleId": "Heading1",
+          "headingLevel": 1,
+          "text": "Chapter 3  Fee Schedule"
+        },
+        {
+          "ordinal": 11,
+          "nodeId": "0000000C",
+          "nodeType": "paragraph",
+          "textPreview": "The following fees apply to this agreement.",
+          "tabCount": 0,
+          "isEmpty": false,
+          "text": "The following fees apply to this agreement."
+        },
+        {
+          "ordinal": 12,
+          "nodeId": "tbl:0000000D",
+          "nodeType": "table",
+          "textPreview": null,
+          "text": "Fee itemAmount (USD)Annual licence5,000Cancellation fee1,200Late payment interest (per month)0.8%",
+          "isEmpty": false
+        },
+        {
+          "ordinal": 13,
+          "nodeId": "00000015",
+          "nodeType": "paragraph",
+          "textPreview": "",
+          "tabCount": 0,
+          "isEmpty": true,
+          "text": ""
+        }
+      ],
+      "children": []
+    },
+    {
+      "groupId": "G0007",
+      "title": "Appendix A  个人信息登记表",
+      "level": 1,
+      "headingNodeId": "00000016",
+      "blocks": [
+        {
+          "ordinal": 14,
+          "nodeId": "00000016",
+          "nodeType": "heading",
+          "textPreview": "Appendix A  个人信息登记表",
+          "tabCount": 0,
+          "isEmpty": false,
+          "styleId": "Heading1",
+          "headingLevel": 1,
+          "text": "Appendix A  个人信息登记表"
+        },
+        {
+          "ordinal": 15,
+          "nodeId": "00000017",
+          "nodeType": "paragraph",
+          "textPreview": "请用户填写以下个人信息,并在图片区域插入本人照片。",
+          "tabCount": 0,
+          "isEmpty": false,
+          "text": "请用户填写以下个人信息,并在图片区域插入本人照片。"
+        },
+        {
+          "ordinal": 16,
+          "nodeId": "tbl:00000018",
+          "nodeType": "table",
+          "textPreview": null,
+          "text": "项目 (Item)内容(待填)姓名 Name性别 Gender出生日期 Date of Birth证件号码 ID Number联系电话 Phone",
+          "isEmpty": false
+        },
+        {
+          "ordinal": 17,
+          "nodeId": "00000024",
+          "nodeType": "paragraph",
+          "textPreview": "【图片区域】请在此处插入本人照片(编辑器中点入此框上传,或调用 create.image 指向本块)",
+          "tabCount": 0,
+          "isEmpty": false,
+          "text": "【图片区域】请在此处插入本人照片(编辑器中点入此框上传,或调用 create.image 指向本块)"
+        },
+        {
+          "ordinal": 18,
+          "nodeId": "00000025",
+          "nodeType": "paragraph",
+          "textPreview": "",
+          "tabCount": 0,
+          "isEmpty": true,
+          "text": " "
+        },
+        {
+          "ordinal": 19,
+          "nodeId": "00000026",
+          "nodeType": "paragraph",
+          "textPreview": "",
+          "tabCount": 0,
+          "isEmpty": true,
+          "text": " "
+        },
+        {
+          "ordinal": 20,
+          "nodeId": "00000027",
+          "nodeType": "paragraph",
+          "textPreview": "",
+          "tabCount": 0,
+          "isEmpty": true,
+          "text": ""
+        }
+      ],
+      "children": []
+    }
+  ]
+}

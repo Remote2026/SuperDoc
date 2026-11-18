@@ -1,0 +1,25 @@
+{
+  "name": "doc-chat-electron",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Electron 桌面壳:内嵌 doc-chat server(CopilotKit runtime + Mastra + SuperDoc SDK)并加载同源前端。",
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --linux AppImage deb"
+  },
+  "devDependencies": {
+    "electron": "^33.2.0",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "dev.superdoc.docchat",
+    "productName": "SuperDoc Chat",
+    "files": ["main.cjs", "preload.cjs"],
+    "extraResources": [
+      { "from": "../server", "to": "server", "filter": ["src/**", "package.json", "tsconfig.json", "node_modules/**"] },
+      { "from": "../web/dist", "to": "web/dist" }
+    ],
+    "linux": { "target": ["AppImage", "deb"], "category": "Office" }
+  }
+}

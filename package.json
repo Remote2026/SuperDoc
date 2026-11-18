@@ -1,0 +1,20 @@
+{
+  "name": "superdoc",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "fixture": "node scripts/make-fixture.mjs",
+    "info": "node scripts/doc-info.mjs",
+    "pretest": "node scripts/make-fixture.mjs",
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@superdoc/sdk": "^2.29.0",
+    "fflate": "^0.8.3",
+    "vitest": "^5.1.0"
+  }
+}

@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Generated fixtures (recreated by `npm run fixture` / pretest)
+fixtures/out/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test / coverage output
+coverage/
+.vitest/
+
+# Editor
+.vscode/
+.idea/
+
+# Claude Code (local settings only — keep CLAUDE.md tracked)
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
